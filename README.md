@@ -52,6 +52,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
-      <img src="(https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg)" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
     </div>
 </div>
