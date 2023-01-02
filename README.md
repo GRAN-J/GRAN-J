@@ -30,14 +30,6 @@
         alt="Steam Badge"
       />
     </div>
----
-    ### 🌊 About Me:
-
-    - 👾 When I'm not coding, you can find me exploring the outdoors or playing games.
-
-    - 💻 I'm currently learning **Tailwind CSS, Python, Sass, Laravel**
-
-    - 📮 How to reach me **jfe.jimenez@gmail.com**
       
          <div align="left">
     <h3>🛠 Languages and Tools</h3>
@@ -55,4 +47,4 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
     </div>
 </div>
----
+
