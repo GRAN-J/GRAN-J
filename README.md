@@ -1,9 +1,10 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm YouDevs</h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
-        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
-        YouDevs.</h3>
+    <img src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47kuinw41zs9lx4d03wkw0fv6kphqmmzw9uilnwbjk&rid=giphy.gif&ct=g" alt="let's code"
+        width="200" />
+    <h1 align="center">Hello I'm Juan Felipe Jiménez</h1>
+    <h3 align="center">I am a programmer with a passion for creating efficient and
+        user-friendly software. With experience in some languages, I enjoy
+        tackling challenges and finding solutions to problems.</h3>
 </div>
 
 
