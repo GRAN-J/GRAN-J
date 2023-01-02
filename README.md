@@ -38,8 +38,9 @@
     - 💻 I'm currently learning **Tailwind CSS, Python, Sass, Laravel**
 
     - 📮 How to reach me **jfe.jimenez@gmail.com**
-
-       <h3>🛠 Languages and Tools</h3>
+      
+         <div align="left">
+    <h3>🛠 Languages and Tools</h3>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
@@ -53,6 +54,4 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
     </div>
-
-
-
+</div>
