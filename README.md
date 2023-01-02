@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47kuinw41zs9lx4d03wkw0fv6kphqmmzw9uilnwbjk&rid=giphy.gif&ct=g" alt="let's code"
+    <img src="https://i.postimg.cc/wjJmJ0nb/3y682m780.png" alt="let's code"
         width="200" />
     <h1 align="center">Hello I'm Juan Felipe Jiménez</h1>
     <h3 align="center">I am a programmer with a passion for creating efficient and
