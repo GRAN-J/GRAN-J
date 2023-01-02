@@ -39,85 +39,19 @@
 
     - 📮 How to reach me **jfe.jimenez@gmail.com**
 
-    <h3>🛠 Languages and Tools</h3>
+       <h3>🛠 Languages and Tools</h3>
     <div>
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"
-        title="HTML5"
-        alt="HTML"
-        width="40"
-        height="40"
-      />&nbsp;
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
-        title="HTML5"
-        alt="HTML"
-        width="40"
-        height="40"
-      />&nbsp;
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
-        title="HTML5"
-        alt="HTML"
-        width="40"
-        height="40"
-      />&nbsp;
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"
-        title="HTML5"
-        alt="HTML"
-        width="40"
-        height="40"
-      />&nbsp;
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
-        title="HTML5"
-        alt="HTML"
-        width="40"
-        height="40"
-      />&nbsp;
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
-        title="HTML5"
-        alt="HTML"
-        width="40"
-        height="40"
-      />&nbsp;
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"
-        title="HTML5"
-        alt="HTML"
-        width="40"
-        height="40"
-      />&nbsp;
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"
-        title="HTML5"
-        alt="HTML"
-        width="40"
-        height="40"
-      />&nbsp;
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"
-        title="HTML5"
-        alt="HTML"
-        width="40"
-        height="40"
-      />&nbsp;
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
-        title="HTML5"
-        alt="HTML"
-        width="40"
-        height="40"
-      />&nbsp;
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-        title="HTML5"
-        alt="HTML"
-        width="40"
-        height="40"
-      />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
     </div>
 
 
