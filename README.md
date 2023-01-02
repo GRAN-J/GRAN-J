@@ -10,9 +10,6 @@
         user-friendly software. With experience in some languages, I enjoy
         tackling challenges and finding solutions to problems.
       </h3>
-      <h3 align="center">
-        When I'm not coding, you can find me exploring the outdoors or playing
-        games.</h3>
    <div align="center">
       <a href="https://twitter.com/GranjGames" target="_blank">
       <img
