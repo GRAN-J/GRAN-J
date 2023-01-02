@@ -7,35 +7,33 @@
 </div>
 
 
-<div id="badges" align="center">
-    <a href="http://twitch.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
-            alt="Twitch Badge" />
-    </a>
-    <a href="https://www.youtube.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
-    </a>
-    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
-            alt="Twitter Badge" />
-    </a>
-</div>
+ <div align="center">
+      <a href="https://twitter.com/GranjGames" target="_blank"></a>
+      <img
+        src="https://img.shields.io/twitter/url?color=black&label=twitter&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FGranjGames"
+        alt="Twitter Badge"
+      />
+      <a href="https://www.instagram.com/granj13/" target="_blank"></a>
+      <img
+        src="https://img.shields.io/twitter/url?color=grey&label=instagram&logo=Instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fgranj13%2F"
+        alt="Instagram Badge"
+      />
+      <a href="https://steamcommunity.com/id/GRAN-J" target="_blank"></a>
+      <img
+        src="https://img.shields.io/twitter/url?color=grey&label=steam&logo=steam&style=for-the-badge&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FGRAN-J"
+        alt="Steam Badge"
+      />
+    </div>
 
 ---
 
-### 👨‍💻 About Me :
+### 🌊 About Me:
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 👾 When I'm not coding, you can find me exploring the outdoors or playing games
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 📮 How to reach me **jfe.jimenez@gmail.com**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
-
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
-
-- 🌐 Website [youdevs.com](youdevs.com)
-
+- 💻 I'm currently learning **Tailwind CSS, Python, Sass, Laravel**
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
