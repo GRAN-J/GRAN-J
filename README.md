@@ -14,11 +14,11 @@
             alt="Twitter Badge" />
     </a>
     <a href="https://www.instagram.com/granj13/" target="_blank">
-        <img src="https://img.shields.io/twitter/url?color=grey&label=instagram&logo=Instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fgranj13%2F"
+        <img src="https://img.shields.io/twitter/url?color=0&label=instagram&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fgranj13%2F"
             alt="Instagram Badge" />
     </a>
     <a href="https://steamcommunity.com/id/GRAN-J" target="_blank">
-        <img src="https://img.shields.io/twitter/url?color=grey&label=steam&logo=steam&style=for-the-badge&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FGRAN-J"
+        <img src="https://img.shields.io/twitter/url?color=0&label=steam&logo=steam&style=for-the-badge&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FGRAN-J"
             alt="Steam Badge" />
     </a>
 </div>
