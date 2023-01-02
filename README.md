@@ -10,7 +10,7 @@
 
 <div id="badges" align="center">
     <a href="https://twitter.com/GranjGames" target="_blank">
-        <img src="https://img.shields.io/twitter/url?color=black&label=twitter&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FGranjGames"
+        <img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=GranjGames"
             alt="Twitter Badge" />
     </a>
     <a href="https://www.instagram.com/granj13/" target="_blank">
