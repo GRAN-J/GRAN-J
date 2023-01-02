@@ -13,25 +13,25 @@
       <h3 align="center">
         When I'm not coding, you can find me exploring the outdoors or playing
         games.</h3>
- <div align="center">
-      <a href="https://twitter.com/GranjGames" target="_blank"></a>
+   <div align="center">
+      <a href="https://twitter.com/GranjGames" target="_blank">
       <img
         src="https://img.shields.io/twitter/url?color=black&label=twitter&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FGranjGames"
         alt="Twitter Badge"
-      />
-      <a href="https://www.instagram.com/granj13/" target="_blank"></a>
+      /></a>
+      <a href="https://www.instagram.com/granj13/" target="_blank">
       <img
         src="https://img.shields.io/twitter/url?color=grey&label=instagram&logo=Instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fgranj13%2F"
         alt="Instagram Badge"
-      />
-      <a href="https://steamcommunity.com/id/GRAN-J" target="_blank"></a>
+      /></a>
+      <a href="https://steamcommunity.com/id/GRAN-J" target="_blank">
       <img
         src="https://img.shields.io/twitter/url?color=grey&label=steam&logo=steam&style=for-the-badge&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FGRAN-J"
         alt="Steam Badge"
-      />
+      /></a>
     </div>
 ---
-    ### 🌊 About Me:
+    ### 🌊 About Me :
 
     - 👾 When I'm not coding, you can find me exploring the outdoors or playing games.
 
